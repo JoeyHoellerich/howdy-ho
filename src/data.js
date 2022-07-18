@@ -100,3 +100,7 @@ export const workBreakers = [
     "What’s something you want to get better at?",
     "What’s your favorite song or soundtrack for doing focused work?"
 ]
+
+const allBreakers = [...easyBreakers, ...favoriteBreakers, ...funnyBreakers, ...workBreakers]
+
+export default allBreakers

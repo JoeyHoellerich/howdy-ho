@@ -1,0 +1,5 @@
+Colors:
+1. (light yellow) #FDF3C0
+2. (lavendar) #DECDF5
+3. (violet) #413C58
+4. (sage) #519E8A
