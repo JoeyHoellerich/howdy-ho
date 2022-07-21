@@ -5,7 +5,7 @@ import icon from "../imgs/icon.png"
 export default function Navbar(){
     return(
         <Box sx={{ flexGrow: 1}}>
-            <AppBar position="static" sx={{backgroundColor: "#FDF3C0"}}>
+            <AppBar position="relative" sx={{backgroundColor: "#FDF3C0", zIndex: "1400"}}>
                 <Toolbar>
                     <IconButton
                         size="small"
